@@ -11,4 +11,5 @@
 | #2                             | [Bootleggers Pub](https://novosibirsk.flamp.ru/firm/bootleggers_pub_shop_pab_magazin-70000001028117029) |    06 March 2020 |
 | #3 (Was canceled)              | [Bootleggers Pub](https://novosibirsk.flamp.ru/firm/bootleggers_pub_shop_pab_magazin-70000001028117029) |  10 October 2020 |
 | #4                             | [Bootleggers Pub](https://novosibirsk.flamp.ru/firm/bootleggers_pub_shop_pab_magazin-70000001028117029) | 12 February 2021 |
-| #5                             | - | - |
+| #5                             | [Bootleggers Pub](https://novosibirsk.flamp.ru/firm/bootleggers_pub_shop_pab_magazin-70000001028117029) |    09 April 2021 |
+| #6                             | - | - |
