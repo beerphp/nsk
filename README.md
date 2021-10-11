@@ -13,4 +13,5 @@
 | #4                             | [Bootleggers Pub](https://novosibirsk.flamp.ru/firm/bootleggers_pub_shop_pab_magazin-70000001028117029) | 12 February 2021 |
 | #5                             | [Bootleggers Pub](https://novosibirsk.flamp.ru/firm/bootleggers_pub_shop_pab_magazin-70000001028117029) |    09 April 2021 |
 | #6                             | [Bootleggers Pub](https://novosibirsk.flamp.ru/firm/bootleggers_pub_shop_pab_magazin-70000001028117029) |      28 May 2021 |
-| #7                             | - | - |
+| #7                             | [BEERFACTORY](https://novosibirsk.flamp.ru/firm/beerfactory_pivnojj_restoran-70000001006936913)         |  1 October 2021 |
+| #8                             | - | - |
